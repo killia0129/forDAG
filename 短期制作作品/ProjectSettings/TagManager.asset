@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1411271369
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hand
+    uniqueID: 1693119263
+    locked: 0
+  - name: UI
+    uniqueID: 1719083517
+    locked: 0
+  - name: Pose
+    uniqueID: 2025071509
+    locked: 0
+  - name: Fade
+    uniqueID: 3974389335
+    locked: 0
