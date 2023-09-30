@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="function.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="img\test1.bmp">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\_loose.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\_sea.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\_shimakaze.jpg">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\_shimakaze.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\_start.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\_win.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\bg.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\bomb.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\bomb2.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\bullet.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\bullet2.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\clear.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\enemy.gif">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\enemy.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\enemy2.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\fire.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\gi01a201503061000.jpg">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\gyorai.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\loose.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\maxresdefault.jpg">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\player.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\player2.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\player3.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\sea.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\sea2.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\sea3.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\shimakaze.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\shot.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\simakaze.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\sky.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\start.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\teki.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\tekiyarare.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\thunder.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\thunder2.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\ug.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\win.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\yarare.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\yarare2.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="img\idle.png">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\title.psd">
+      <Filter>リソース ファイル</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="sound\_battle.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\_looses.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\_title.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\_wins.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\battle.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\explosion.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\looses.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\thunder.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\thunder2.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\title.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\wins.mp3">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+    <Media Include="sound\yarares.wav">
+      <Filter>リソース ファイル</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
